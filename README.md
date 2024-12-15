@@ -32,12 +32,12 @@ Este é um sistema simples de cadastro de usuários, onde os usuários podem se 
   * E-mail: Verificar se o domínio é `@mastercoin.com.br` e se o e-mail já não foi cadastrado.
   * Senha: Validar se a senha tem pelo menos 8 caracteres e inclui letras, números e caracteres especiais.
 
-### 3. Fluxo do programa:
+## Fluxo do programa:
 
   * O programa permite o cadastro de múltiplos usuários e valida os dados conforme são fornecidos.
   * Após o cadastro, o programa exibe os usuários cadastrados e suas idades.
 
-### 4. Como rodar:
+## Como rodar:
   1. Clone ou baixe o repositório.
   2. Abra o arquivo no Visual Studio ou em qualquer outro editor C#.
   3. Compile e execute o programa.
