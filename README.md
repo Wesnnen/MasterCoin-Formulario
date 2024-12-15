@@ -38,7 +38,7 @@ Este é um sistema simples de cadastro de usuários, onde os usuários podem se 
   * Após o cadastro, o programa exibe os usuários cadastrados e suas idades.
 
 ## Como rodar:
-  1. Clone ou baixe o repositório.
+  1. Clone ou faça o download do repositório.
   2. Abra o arquivo no Visual Studio ou em qualquer outro editor C#.
   3. Compile e execute o programa.
   4. Siga as instruções no console para cadastrar os usuários.
