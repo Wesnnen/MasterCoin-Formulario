@@ -1,4 +1,4 @@
-# MasterCoin - Formulario
+# MasterCoin - Formulário
 Este é um sistema simples de cadastro de usuários, onde os usuários podem se registrar fornecendo informações como nome, data de nascimento, e-mail e senha. O sistema valida os dados fornecidos e garante que o e-mail seja do domínio `@mastercoin.com.br`   e que a senha tenha ao menos 8 caracteres, incluindo letras, números e caracteres especiais.
 
 ## Funcionalidades:
